@@ -9,11 +9,11 @@ cd chicago-train-feed
 npm install
 ```
 
-Create a file called `key.json` containing your API key.
+Set your API key in the `key.json` file.
 
 ```json
 {
-  "key": "9a9a0516a9d044b5a0e43014ae43756f"
+  "key": "my-api-key-916a9d044b5a0e43014ae43756f"
 }
 ```
 
