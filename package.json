@@ -1,0 +1,17 @@
+{
+  "name": "chicago-train-feed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "morganherlocker",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.10.3",
+    "request": "^2.57.0",
+    "turf": "^2.0.2",
+    "xml-parser": "^1.2.1"
+  }
+}
